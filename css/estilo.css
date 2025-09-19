@@ -47,6 +47,7 @@ body{
 h1 { 
     font-size: 56px;
     color: #b30000;
+    text-align: center
    }
 h2{ 
     color: #202020;
@@ -58,6 +59,10 @@ h3{
    color: #202020;    
    font-size: 20px; 
    text-align: center;
+   p{
+     font-size: 20px;
+     text-align: center;
+    }
   }
 /* ESTILO SOBRE */
 .box{ max-width: 500px; }
